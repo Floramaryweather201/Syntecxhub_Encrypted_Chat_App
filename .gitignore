@@ -1,0 +1,15 @@
+
+# Secret encryption keys
+.env
+.env.*
+*.key
+
+# Python temporary files
+__pycache__
+*.pyc
+
+# Local chat logs
+*.log
+
+# macOS files
+.DS_Store
