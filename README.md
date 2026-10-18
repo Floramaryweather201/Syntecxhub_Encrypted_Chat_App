@@ -20,3 +20,4 @@ Verified that a second client successfully received
 and decrypted Alice's message.
 
 ### Project Evidence
+[View Project Screenshots (PDF)](./Syntecxhub_Encrypted_Chat_App_Evidence.pdf)
